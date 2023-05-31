@@ -5,3 +5,9 @@
   <a href = "https://www.hackerrank.com/arpittyagirocks" target="_blank">
   <img src="https://hrcdn.net/fcore/assets/favicon-ddc852f75a.png" height="40px"/></a>  
 </p>
+
+## Projects
+| Humari Dukan - E-commerce website  |  Hide and Seek - Web game   |
+| :--------------------------:       | :-------------------------: |
+| ![](Humaridukan.gif)               | ![](HideandSeek.gif)        |
+
