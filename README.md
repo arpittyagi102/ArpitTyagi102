@@ -1,5 +1,4 @@
-![Arpit Tyagi's Github stats](https://github-readme-stats.vercel.app/api?username=arpittyagi102&show_icons=true&theme=dark\&rank_icon=github)
-
+![Banner](banner.png)
 | [Humari Dukan - E-commerce website](https://github.com/arpittyagirocks/Humari-Dukan)  |  [Hide and Seek - Web game](https://github.com/arpittyagirocks/HideandSeek)   |
 | :--------------------------:       | :-------------------------: |
 | <img src="Humaridukan.gif" width="400px">        | <img src="HideandSeek.gif" width="400px">        |
