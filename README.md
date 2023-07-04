@@ -1,11 +1,4 @@
-
-<!--<p align="center" style="display:flex,align-items:center">
-  <a href = "https://www.linkedin.com/in/arpittyagirocks/" target="_blank"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
-  <a href = "https://www.instagram.com/arpittyagirocks/" target="_blank"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
-  <a href = "https://www.hackerrank.com/arpittyagirocks" target="_blank">
-  <img src="https://hrcdn.net/fcore/assets/favicon-ddc852f75a.png" height="40px"/></a>  
-  https://github.com/NageshMandal/Engineering-Notes-Website
-</p>-->
+![Arpit Tyagi's Github stats](https://github-readme-stats.vercel.app/api?username=arpittyagi102&show_icons=true&theme=dark\&rank_icon=github)
 
 | [Humari Dukan - E-commerce website](https://github.com/arpittyagirocks/Humari-Dukan)  |  [Hide and Seek - Web game](https://github.com/arpittyagirocks/HideandSeek)   |
 | :--------------------------:       | :-------------------------: |
