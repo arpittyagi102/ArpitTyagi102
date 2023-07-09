@@ -1,9 +1,13 @@
-![Banner](banner.png)
-| [Humari Dukan - E-commerce website](https://github.com/arpittyagirocks/Humari-Dukan)  |  [Hide and Seek - Web game](https://github.com/arpittyagirocks/HideandSeek)   |
+<h1 align="center">Hello 👋 I am Arpit Tyagi </h1>
+
+## Projects :-
+
+
+| [LinkUp - a chatting application](https://github.com/arpittyagi102/LinkUp)  | [Humari Dukan - an e-commerce website](https://github.com/arpittyagi102/Humari-Dukan)|
 | :--------------------------:       | :-------------------------: |
-| <img src="Humaridukan.gif" width="400px">        | <img src="HideandSeek.gif" width="400px">        |
-|[SpeedyKeys - A typing practice website](https://github.com/arpittyagi102/speedykeys)|
-| <img src="SpeedyKeys.gif" width="400px">
+| ![Linkup](demo1.gif)               |  ![humaridukan](Humaridukan.gif) |
+| [Hide and Seek - Web game](https://github.com/arpittyagirocks/HideandSeek) | [SpeedyKeys - A typing practice website](https://github.com/arpittyagi102/speedykeys) |
+| <img src="HideandSeek.gif" width="400px"> | <img src="SpeedyKeys.gif" width="400px"> |
 
 
 ## Contributions :
