@@ -1,5 +1,10 @@
 <h1 align="center">Hello 👋 I am Arpit Tyagi </h1>
 
+<div align="center">
+
+  ![GitHub Streak](https://streak-stats.demolab.com?user=arpittyagi102&theme=gruvbox-duo&hide_border=true&border_radius=&date_format=j%20M%5B%20Y%5D&card_width=426)
+</div>
+
 ## Projects :-
 
 
