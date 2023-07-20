@@ -2,7 +2,7 @@
 
 <div align="center"> 
    <img src="https://streak-stats.demolab.com?user=arpittyagi102&theme=gruvbox-duo&hide_border=true&border_radius=&date_format=j%20M%5B%20Y%5D&card_width=400" alt="Github Stats">
-  <img src="https://github-readme-stats.vercel.app/api?username=arpittyagi102&show_icons=true&bg_color=00000000&hide=contribs&theme=codeSTACKr&include_all_commits=true&text_bold=false&hide_border=true&card_width=350" alt="Github Stats">
+  <img src="https://github-readme-stats.vercel.app/api?username=arpittyagi102&show_icons=true&bg_color=00000000&hide=contribs&theme=codeSTACKr&text_bold=false&hide_border=true&card_width=350" alt="Github Stats">
 </div>
 
 ## Projects :-
