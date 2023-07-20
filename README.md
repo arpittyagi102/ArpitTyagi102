@@ -6,8 +6,6 @@
   <img width="48" height="48" src="https://img.icons8.com/color/48/css3.png" alt="css3">
   <img width="48" height="48" src="https://img.icons8.com/color/48/javascript--v1.png" alt="javascript--v1">
   <img width="48" height="48" src="https://img.icons8.com/color/48/bootstrap.png" alt="bootstrap" >
-  <img width="48" height="48" src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/external-jquery-is-a-javascript-library-designed-to-simplify-html-logo-color-tal-revivo.png" alt="external-jquery-is-a-javascript-library-designed-to-simplify-html-logo-color-tal-revivo" >
-   <img width="48" height="48" src="https://img.icons8.com/color/48/npm.png" alt="npm"/>
    <img width="48" height="48" src="https://img.icons8.com/color/48/react-native.png"/>
    <img width="48" height="48" src="https://img.icons8.com/color/48/redux.png" alt="redux"/>
    <img width="48" height="48" src="https://socket.io/images/logo-dark.svg"/>
@@ -18,7 +16,6 @@
    <img width="48" height="48" src="https://img.icons8.com/color/48/visual-studio-code-2019.png" alt="visual-studio-code-2019"/>
    <img width="48" height="48" src="https://img.icons8.com/color/48/git.png" alt="git"/>
    <img width="48" height="48" src="https://img.icons8.com/material-outlined/48/ffffff/github.png" alt="github"/>
-   <img width="48" height="48" src="https://img.icons8.com/wired/64/ffffff/postman-api.png" alt="postman-api"/>
    <img width="48" height="48" src="https://img.icons8.com/color/48/mysql-logo.png" alt="mysql-logo"/>
    <img width="48" height="48" src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/external-mongodb-a-cross-platform-document-oriented-database-program-logo-color-tal-revivo.png" alt="external-mongodb-a-cross-platform-document-oriented-database-program-logo-color-tal-revivo"/>
 </div>
