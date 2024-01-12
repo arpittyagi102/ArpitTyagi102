@@ -1,4 +1,3 @@
-<img src="banner.png">
 <div style="display: flex; gap:20px">
   <img width="48" height="48" src="https://img.icons8.com/color/48/html-5--v1.png" alt="html-5--v1">
   <img width="48" height="48" src="https://img.icons8.com/color/48/css3.png" alt="css3">
