@@ -3,11 +3,11 @@
   <img width="48" height="48" src="https://img.icons8.com/color/48/css3.png" alt="css3">
   <img width="48" height="48" src="https://img.icons8.com/color/48/javascript--v1.png" alt="javascript--v1">
   <img width="48" height="48" src="https://img.icons8.com/color/48/bootstrap.png" alt="bootstrap" >
+    <img width="48" height="48" src="https://img.icons8.com/color/48/tailwindcss.png" alt="tailwindcss"/>
    <img width="48" height="48" src="https://img.icons8.com/color/48/react-native.png"/>
    <img width="48" height="48" src="https://img.icons8.com/color/48/redux.png" alt="redux"/>
    <img width="48" height="48" src="https://socket.io/images/logo-dark.svg"/>
-   <img width="48" height="48" src="next-js.svg"/>
-   <img width="48" height="48" src="https://img.icons8.com/color/48/tailwindcss.png" alt="tailwindcss"/>
+   <img width="48" height="48" src="https://img.icons8.com/fluency/48/nextjs.png"/>
    <img width="48" height="48" src="https://img.icons8.com/fluency/48/node-js.png" alt="node-js"/>
    <img width="50" height="50" src="https://img.icons8.com/ios/50/ffffff/express-js.png" alt="express-js"/>
    <img width="48" height="48" src="https://img.icons8.com/color/48/visual-studio-code-2019.png" alt="visual-studio-code-2019"/>
@@ -15,6 +15,8 @@
    <img width="48" height="48" src="https://img.icons8.com/material-outlined/48/ffffff/github.png" alt="github"/>
    <img width="48" height="48" src="https://img.icons8.com/color/48/mysql-logo.png" alt="mysql-logo"/>
    <img width="48" height="48" src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/external-mongodb-a-cross-platform-document-oriented-database-program-logo-color-tal-revivo.png" alt="external-mongodb-a-cross-platform-document-oriented-database-program-logo-color-tal-revivo"/>
+  <img width="48" height="48" src="https://img.icons8.com/doodle/48/svetle.png" alt="git"/>
+  <img width="48" height="48" src="https://global.discourse-cdn.com/standard17/uploads/threejs/original/2X/e/e4f86d2200d2d35c30f7b1494e96b9595ebc2751.png" alt="git"/>
 </div>
 <br>
 
