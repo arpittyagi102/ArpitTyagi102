@@ -17,6 +17,7 @@
    <img width="48" height="48" src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/external-mongodb-a-cross-platform-document-oriented-database-program-logo-color-tal-revivo.png" alt="external-mongodb-a-cross-platform-document-oriented-database-program-logo-color-tal-revivo"/>
   <img width="48" height="48" src="https://img.icons8.com/doodle/48/svetle.png" alt="git"/>
   <img width="48" height="48" src="https://global.discourse-cdn.com/standard17/uploads/threejs/original/2X/e/e4f86d2200d2d35c30f7b1494e96b9595ebc2751.png" alt="git"/>
+  <img width="48" height="48" src="https://www.electronjs.org/assets/img/logo.svg" alt="git"/>
 </div>
 <br>
 
