@@ -19,6 +19,7 @@
   <img width="48" height="48" src="https://global.discourse-cdn.com/standard17/uploads/threejs/original/2X/e/e4f86d2200d2d35c30f7b1494e96b9595ebc2751.png" alt="git"/>
   <img width="48" height="48" src="https://www.electronjs.org/assets/img/logo.svg" alt="git"/>
   <img width="48" height="48" src="https://img.icons8.com/color/48/typescript.png" alt="typescript"/>
+  <img width="48" height="48" src="https://img.icons8.com/color/48/notion.png" alt="notion"/>
 </div>
 <br>
 
