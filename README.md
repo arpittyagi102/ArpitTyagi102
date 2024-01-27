@@ -4,6 +4,7 @@
   <img width="48" height="48" src="https://img.icons8.com/color/48/javascript--v1.png" alt="javascript--v1">
   <img width="48" height="48" src="https://img.icons8.com/color/48/bootstrap.png" alt="bootstrap" >
     <img width="48" height="48" src="https://img.icons8.com/color/48/tailwindcss.png" alt="tailwindcss"/>
+    <img width="48" height="48" src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/external-jquery-is-a-javascript-library-designed-to-simplify-html-logo-color-tal-revivo.png" alt="Jquery"/>
    <img width="48" height="48" src="https://img.icons8.com/color/48/react-native.png"/>
    <img width="48" height="48" src="https://img.icons8.com/color/48/redux.png" alt="redux"/>
    <img width="48" height="48" src="https://socket.io/images/logo-dark.svg"/>
