@@ -9,6 +9,7 @@
    <img width="48" height="48" src="https://img.icons8.com/color/48/redux.png" alt="redux"/>
    <img width="48" height="48" src="https://socket.io/images/logo-dark.svg"/>
    <img width="48" height="48" src="https://img.icons8.com/fluency/48/nextjs.png"/>
+   <img width="48" height="48" src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/external-typescript-an-open-source-programming-language-developed-and-maintained-by-microsoft-logo-color-tal-revivo.png" alt="Typescript"/>
    <img width="48" height="48" src="https://img.icons8.com/fluency/48/node-js.png" alt="node-js"/>
    <img width="50" height="50" src="https://img.icons8.com/ios/50/ffffff/express-js.png" alt="express-js"/>
    <img width="48" height="48" src="https://img.icons8.com/color/48/visual-studio-code-2019.png" alt="visual-studio-code-2019"/>
@@ -17,7 +18,7 @@
    <img width="48" height="48" src="https://img.icons8.com/color/48/mysql-logo.png" alt="mysql-logo"/>
    <img width="48" height="48" src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/external-mongodb-a-cross-platform-document-oriented-database-program-logo-color-tal-revivo.png" alt="external-mongodb-a-cross-platform-document-oriented-database-program-logo-color-tal-revivo"/>
   <img width="48" height="48" src="https://img.icons8.com/doodle/48/svetle.png" alt="git"/>
-  <img width="48" height="48" src="https://global.discourse-cdn.com/standard17/uploads/threejs/original/2X/e/e4f86d2200d2d35c30f7b1494e96b9595ebc2751.png" alt="git"/>
+  <img width="48" height="48" src="https://threejs.org/files/favicon_white.ico" alt="THree.js"/>
   <img width="48" height="48" src="https://www.electronjs.org/assets/img/logo.svg" alt="git"/>
   <img width="48" height="48" src="https://img.icons8.com/color/48/typescript.png" alt="typescript"/>
   <img width="48" height="48" src="https://img.icons8.com/color/48/notion.png" alt="notion"/>
