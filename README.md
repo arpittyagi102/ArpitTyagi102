@@ -34,9 +34,12 @@
 
 ## Projects :-
 
+| [Sachin Textiles](https://github.com/arpittyagi102/Sachin-Textiles)                                | [LinkUp - a chatting application](https://github.com/arpittyagi102/LinkUp) |
+| :--------------------------:                                                                       | :-------------------------:                                                |
+| <img src="https://github.com/user-attachments/assets/d196b029-00a8-4827-9646-4c76ad836a0d" width="400px"> | ![Linkup](demo1.gif)                                                | 
+| [Humari Dukan - an e-commerce website](https://github.com/arpittyagi102/Humari-Dukan)              | [Hide and Seek - Web game](https://github.com/arpittyagirocks/HideandSeek) |
+| ![humaridukan](Humaridukan.gif)                                                                    | <img src="HideandSeek.gif" width="400px">                                  |
+| [SpeedyKeys - A typing practice website](https://github.com/arpittyagi102/speedykeys)              | [To Do List](https://yourtodolist.vercel.app)                              |
+| <img src="SpeedyKeys.gif" width="400px">                                                           | ![to do list](https://www.arpittyagi.in/_next/image?url=%2Fprojects%2Ftodolist.png&w=2048&q=75)|
 
-| [LinkUp - a chatting application](https://github.com/arpittyagi102/LinkUp)  | [Humari Dukan - an e-commerce website](https://github.com/arpittyagi102/Humari-Dukan)|
-| :--------------------------:       | :-------------------------: |
-| ![Linkup](demo1.gif)               |  ![humaridukan](Humaridukan.gif) |
-| [Hide and Seek - Web game](https://github.com/arpittyagirocks/HideandSeek) | [SpeedyKeys - A typing practice website](https://github.com/arpittyagi102/speedykeys) |
-| <img src="HideandSeek.gif" width="400px"> | <img src="SpeedyKeys.gif" width="400px"> |
+<h3 align="center"><a href="https://arpittyagi.in#projects">⚒️ View All Projects</a></h3>
